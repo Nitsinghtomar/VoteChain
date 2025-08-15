@@ -1,9 +1,5 @@
 # 🗳️ VoteChain - Secure Blockchain E-Voting Platform with Biometric Authentication
 
-[![GitHub](https://img.shields.io/github/license/Nitsinghtomar/VoteChain)](https://github.com/Nitsinghtomar/VoteChain/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/Nitsinghtomar/VoteChain)](https://github.com/Nitsinghtomar/VoteChain/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Nitsinghtomar/VoteChain)](https://github.com/Nitsinghtomar/VoteChain/network)
-
 Modern democratic processes require robust security measures to ensure election integrity and prevent fraud. VoteChain delivers a comprehensive **blockchain-powered e-voting solution** that combines **distributed ledger technology** with **facial recognition biometrics** to create an immutable and secure voting environment.
 
 The system architecture utilizes **MongoDB** as the primary database, organized into three core collections:
@@ -12,14 +8,6 @@ The system architecture utilizes **MongoDB** as the primary database, organized 
 - `elections`: oversees election lifecycle and historical records
 
 This platform provides organizations, educational institutions, and communities with a trustworthy, technology-enhanced democratic voting solution.
-
-## 🌟 Repository Information
-
-- **Repository**: [VoteChain](https://github.com/Nitsinghtomar/VoteChain)
-- **Author**: [Nitsinghtomar](https://github.com/Nitsinghtomar)
-- **License**: MIT
-
----
 
 ## 📁 Project Architecture
 
