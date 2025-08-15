@@ -1,0 +1,35 @@
+{
+  "name": "votechain",
+  "version": "1.0.0",
+  "description": "VoteChain - A secure blockchain-based e-voting platform that integrates facial recognition for voter authentication. Built with React.js frontend, Node.js backend, MongoDB database, and Ethereum smart contracts for transparent and immutable vote recording.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "frontend": "cd client && npm run start",
+    "newFrontend": "cd client && npm install && npm run start",
+    "backend": "cd server && nodemon main",
+    "newBackend": "cd server && npm install && nodemon main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nitsinghtomar/VoteChain.git"
+  },
+  "keywords": [
+    "blockchain",
+    "voting",
+    "facial-recognition",
+    "ethereum",
+    "smart-contracts",
+    "react",
+    "nodejs",
+    "mongodb",
+    "votechain",
+    "biometric-authentication"
+  ],
+  "author": "Nitsinghtomar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nitsinghtomar/VoteChain/issues"
+  },
+  "homepage": "https://github.com/Nitsinghtomar/VoteChain#readme"
+}
